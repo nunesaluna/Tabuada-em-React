@@ -1,16 +1,20 @@
-# React + Vite
+# 🔢 Tabuada Interativa com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto desenvolvido para praticar os conceitos fundamentais de **React**, como manipulação de estados (`useState`), renderização de listas e estilização moderna.
 
-Currently, two official plugins are available:
+## ✨ Funcionalidades
+- **Cálculo em Tempo Real:** Digite um número e veja a tabuada completa instantaneamente.
+- **Interface Responsiva:** Design que se adapta a computadores e celulares.
+- **Visual Moderno:** Uso de sombras, bordas arredondadas e tipografia limpa.
+- **Feedback Visual:** Destaque para os resultados e organização clara das operações.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologias Utilizadas
+- [React.js](https://reactjs.org/) - Biblioteca principal.
+- [Vite](https://vitejs.dev/) - Ferramenta de build ultra-rápida.
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Estilização personalizada com Flexbox.
+- [JavaScript ES6+](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Lógica de programação.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Como testar localmente
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/nunesaluna/Tabuada-em-React.git](https://github.com/nunesaluna/Tabuada-em-React.git)
