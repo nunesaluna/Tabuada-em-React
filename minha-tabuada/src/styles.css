@@ -21,12 +21,12 @@
   letter-spacing: 1px;
 }
 
-/* O "Corpo" do App (Onde a mágica acontece) */
+/* O "Corpo" do App */
 .container {
   padding: 40px; /* Mais espaço interno para os elementos respirarem */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
-  /* LARGURA REVISADA: Aumentamos de 350px para 500px para ficar melhor no Desktop */
+  /* LARGURA 500px para ficar melhor no Desktop */
   max-width: 500px; 
   width: 90%; /* Isso ajuda a não quebrar em celulares pequenos */
   
@@ -90,7 +90,7 @@ select:focus {
 }
 
 .tabela-tabuada td {
-  padding: 16px; /* Aumentamos o espaço das linhas */
+  padding: 16px; /* espaço das linhas */
   text-align: center;
   border-bottom: 1px solid #f8f9fa;
   font-size: 20px; /* Números maiores para facilitar a leitura */
@@ -126,6 +126,6 @@ strong {
 }
 
 .footer-principal strong {
-  color: #3498db; /* Azul mais claro para o seu nome no rodapé */
+  color: #3498db; /* Azul mais claro no rodapé */
 }
 
