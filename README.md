@@ -14,7 +14,6 @@ Este é um projeto desenvolvido para praticar os conceitos fundamentais de **Rea
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Estilização personalizada com Flexbox.
 - [JavaScript ES6+](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Lógica de programação.
 
-## 🚀 Como testar localmente
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/nunesaluna/Tabuada-em-React.git](https://github.com/nunesaluna/Tabuada-em-React.git)
+## 🚀 Como visualizar:
+
+https://minha-tabuada.vercel.app/
