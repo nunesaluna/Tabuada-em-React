@@ -13,7 +13,3 @@ Este é um projeto desenvolvido para praticar os conceitos fundamentais de **Rea
 - [Vite](https://vitejs.dev/) - Ferramenta de build ultra-rápida.
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Estilização personalizada com Flexbox.
 - [JavaScript ES6+](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Lógica de programação.
-
-## 🚀 Como visualizar
-
-https://minha-tabuada.vercel.app/
